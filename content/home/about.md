@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: Hello
 headless: true
-weight: 10
+weight: 20
 title: Welcome!
 design:
   background:
