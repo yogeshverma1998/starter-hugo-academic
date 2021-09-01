@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: page
 widget_id: example project
 headless: true
 weight: 35
