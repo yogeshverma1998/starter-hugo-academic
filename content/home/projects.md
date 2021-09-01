@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: example project
+widget_id: featured
 headless: true
 weight: 35
 title: Projects
