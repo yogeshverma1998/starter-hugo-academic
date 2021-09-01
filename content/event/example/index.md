@@ -8,10 +8,10 @@ title: Characterization Study of a Button BPM with an approach to Automated
 location: Inter-University Accelerator Center (IUAC), New Delhi, India
 date: 2019-06-28T13:00:00.000Z
 date_end: 2019-06-28T13:00:00.000Z
-all_day: false
+all_day: true
 event: IUAC Summer Research Conference
 event_url: https://www.iuac.res.in/
-featured: true
+featured: false
 authors: []
 url_video: ""
 url_slides: ""
@@ -27,6 +27,7 @@ tags: []
 projects: []
 image:
   caption: ""
-  focal_point: Right
+  focal_point: ""
+  preview_only: true
 url_code: ""
 ---
