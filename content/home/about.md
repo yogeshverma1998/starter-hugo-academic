@@ -1,11 +1,15 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: Hello
 headless: true
 weight: 20
 title: Biography
-active: true
-author: admin
+design:
+  background:
+    image: beam_pipe.jpg
+    image_darken: 0.5
 ---
 # Welcome
 
