@@ -5,7 +5,7 @@ headless: true
 weight: 140
 title: Talks
 subtitle: null
-active: false
+active: true
 content:
   page_type: event
   count: 5
