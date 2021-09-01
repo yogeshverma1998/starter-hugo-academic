@@ -1,11 +1,11 @@
 ---
 widget: pages
-widget_id: talks
+widget_id: featured
 headless: true
 weight: 80
-title: Talks + Posters
+title: "Talks "
 subtitle: null
-active: false
+active: true
 content:
   page_type: event
   count: 5
