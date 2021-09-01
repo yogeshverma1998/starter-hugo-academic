@@ -7,6 +7,8 @@ date_end: 2019-08-01T18:30:00.000Z
 all_day: true
 links:
   - url: https://ppss.ifj.edu.pl/history.php
+    name: Event
+    icon_pack: fas
 event: Summer Research Conference
 event_url: https://ppss.ifj.edu.pl/history.php
 publishDate: 2019-08-02T12:44:59.137Z
