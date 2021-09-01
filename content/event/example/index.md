@@ -1,6 +1,6 @@
 ---
 abstract: "@IUAC New Delhi"
-slides: ""
+slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: Characterization Study of a Button BPM with an approach to Automated
@@ -24,7 +24,8 @@ address:
 links: []
 publishDate: 2019-06-28T00:00:00.000Z
 tags: []
-projects: []
+projects:
+  - example
 image:
   caption: ""
   focal_point: ""
@@ -32,3 +33,4 @@ image:
   alt_text: "@IUAC New Delhi"
 url_code: ""
 ---
+@IUAC New Delhi
