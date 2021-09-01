@@ -13,12 +13,14 @@ content:
       tag: "*"
     - name: Deep Learning
       tag: Deep Learning
+    - name: Physics
+      tag: Physics
     - name: Other
-      tag: Demo
+      tag: Other
 design:
   columns: ""
-  view: 2
-  flip_alt_rows: false
+  view: 3
+  flip_alt_rows: true
   background:
     image: pro_back.jpg
 ---
