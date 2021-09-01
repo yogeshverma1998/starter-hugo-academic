@@ -1,10 +1,10 @@
 ---
-widget: featured
-widget_id: featured
+widget: portfolio
+widget_id: example project
 headless: true
 weight: 35
 title: Projects
-subtitle: "  "
+subtitle: ""
 content:
   page_type: project
   filter_default: 0
@@ -16,7 +16,7 @@ content:
     - name: Other
       tag: Demo
 design:
-  columns: "2"
+  columns: ""
   view: 2
   flip_alt_rows: false
   background:
