@@ -1,10 +1,10 @@
 ---
 widget: page
-widget_id: my-widget-123
+widget_id: Talks
 headless: true
 weight: 10
 title: Talks
-active: true
+active: false
 design:
   columns: "2"
   background:
