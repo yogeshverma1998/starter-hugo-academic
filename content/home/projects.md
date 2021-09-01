@@ -1,5 +1,5 @@
 ---
-widget: portfolio
+widget: featured
 widget_id: example project
 headless: true
 weight: 35
@@ -16,7 +16,7 @@ content:
     - name: Other
       tag: Demo
 design:
-  columns: ""
+  columns: "1"
   view: 2
   flip_alt_rows: false
   background:
