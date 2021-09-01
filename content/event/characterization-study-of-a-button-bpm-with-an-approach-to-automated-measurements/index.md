@@ -8,6 +8,8 @@ date_end: 2020-09-16T06:30:00.000Z
 all_day: false
 links:
   - url: https://indico.jacow.org/event/34/
+    icon_pack: fas
+    name: Event
 event: International Beam Instrumentation Conference 2020
 event_url: https://indico.jacow.org/event/34/
 publishDate: 2020-09-17T13:21:00.962Z
