@@ -22,7 +22,7 @@ summary: Muons are the most abundant charged particles arriving at sea level
   detectors for astrophysical and collider experiments.
 url_video: ""
 date: 2020-08-26T00:00:00.000Z
-external_link: ""
+external_link: https://arxiv.org/abs/2012.08515
 url_slides: ""
 title: Particle Track Reconstruction using Geometric Deep Learning
 tags:
