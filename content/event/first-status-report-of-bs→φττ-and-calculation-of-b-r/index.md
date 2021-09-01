@@ -1,7 +1,6 @@
 ---
 title: First status report of Bs→φττ and Calculation of B.R.
-abstract: Presented the first status report of Bs→φττ with calculation of upper
-  limit on branching ratio (B.R.)
+abstract: "@CERN (virtual)"
 location: "@Exotica and Rare Decay Meeting, CERN"
 date: 2021-08-30T13:00:00.352Z
 date_end: 2021-08-30T13:30:00.000Z
