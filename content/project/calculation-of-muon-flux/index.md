@@ -7,7 +7,7 @@ featured: false
 tags:
   - Physics
 image:
-  filename: cosmic.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
