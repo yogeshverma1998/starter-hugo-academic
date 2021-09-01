@@ -2,7 +2,7 @@
 widget: featured
 widget_id: featured
 headless: true
-weight: 40
+weight: 20
 title: Featured Publications
 subtitle: ""
 content:
@@ -17,6 +17,6 @@ content:
 design:
   view: 3
   background:
-    image: part.jpg
+    image: pub_back.png
     image_darken: 0.5
 ---
