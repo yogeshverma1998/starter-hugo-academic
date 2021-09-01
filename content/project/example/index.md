@@ -26,8 +26,8 @@ external_link: https://arxiv.org/abs/2012.08515
 url_slides: ""
 title: Particle Track Reconstruction using Geometric Deep Learning
 tags:
-  - Deep Learning
-  - Physics
+  - '["Deep Learning"'
+  - '"Physics"]'
 links:
   - url: https://arxiv.org/abs/2012.08515
     icon_pack: fas
