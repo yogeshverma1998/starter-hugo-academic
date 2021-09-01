@@ -29,5 +29,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  alt_text: "@IUAC New Delhi"
 url_code: ""
 ---
