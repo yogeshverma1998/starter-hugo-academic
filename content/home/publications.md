@@ -1,10 +1,11 @@
 ---
 widget: pages
-widget_id: Publications
+widget_id: Featured Publications
 headless: true
 weight: 40
 title: Publications
 subtitle: ""
+active: true
 content:
   page_type: publication
   count: 5
