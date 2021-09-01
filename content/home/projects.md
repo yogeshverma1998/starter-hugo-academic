@@ -17,7 +17,7 @@ content:
       tag: Physics
 design:
   columns: "1"
-  view: 4
+  view: 5
   flip_alt_rows: false
   background:
     image: pro_back.jpg
