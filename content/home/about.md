@@ -5,7 +5,7 @@ author: admin
 widget_id: Hello
 headless: true
 weight: 20
-title: Biography
+title: Welcome!
 design:
   background:
     image: beam_pipe.jpg
