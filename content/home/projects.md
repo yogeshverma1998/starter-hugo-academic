@@ -16,7 +16,7 @@ content:
     - name: Physics
       tag: Physics
 design:
-  columns: "2"
+  columns: "1"
   view: 4
   flip_alt_rows: false
   background:
