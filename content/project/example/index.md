@@ -20,14 +20,15 @@ summary: Muons are the most abundant charged particles arriving at sea level
   towards noise and double hits, limitations, and application of the proposed
   algorithm in tracking applications with the possibility to generalize to other
   detectors for astrophysical and collider experiments.
+authors: []
 url_video: ""
 date: 2020-08-26T00:00:00.000Z
 external_link: https://arxiv.org/abs/2012.08515
 url_slides: ""
 title: Particle Track Reconstruction using Geometric Deep Learning
 tags:
-  - '["Deep Learning"'
-  - '"Physics"]'
+  - Deep Learning
+  - Physics
 links:
   - url: https://arxiv.org/abs/2012.08515
     icon_pack: fas
