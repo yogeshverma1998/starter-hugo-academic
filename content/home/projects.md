@@ -4,7 +4,7 @@ widget_id: example project
 headless: true
 weight: 35
 title: Projects
-subtitle: ""
+subtitle: " "
 content:
   page_type: project
   filter_default: 0
