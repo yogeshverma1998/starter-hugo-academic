@@ -1,6 +1,6 @@
 ---
 widget: portfolio
-widget_id: example project
+widget_id: portfolio
 headless: true
 weight: 35
 title: Projects
@@ -13,14 +13,12 @@ content:
       tag: "*"
     - name: Deep Learning
       tag: Deep Learning
-    - name: Physics
-      tag: Physics
     - name: Other
-      tag: Other
+      tag: Demo
 design:
-  columns: ""
-  view: 3
-  flip_alt_rows: true
+  columns: "1"
+  view: 2
+  flip_alt_rows: false
   background:
     image: pro_back.jpg
 ---
