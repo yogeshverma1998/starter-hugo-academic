@@ -25,7 +25,7 @@ education:
     - course: Integrated B.S. - M.S. Physics
       institution: IISER Mohali
       year: 2021
-email: ""
+email: yverma132@gmail.com
 superuser: true
 highlight_name: false
 ---
