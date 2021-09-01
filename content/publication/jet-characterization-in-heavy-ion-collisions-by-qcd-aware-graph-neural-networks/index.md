@@ -26,11 +26,11 @@ draft: false
 featured: true
 tags:
   - Preprint
-slides: example2/
+slides: jet-characterization-in-heavy-ion-collisions-by-qcd-aware-graph-neural-networks/
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: Geometrical embedding for final state particles
-date: 2021-09-01T09:51:56.819Z
+date: 2021-04-09T09:51:56.819Z
 ---
