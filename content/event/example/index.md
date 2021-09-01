@@ -1,5 +1,5 @@
 ---
-abstract: "@IUAC New Delhi"
+abstract: Presented in Summer Research Conference at IUAC
 slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
@@ -23,7 +23,8 @@ address:
   country: United States
 links: []
 publishDate: 2019-06-28T00:00:00.000Z
-tags: []
+tags:
+  - "@IUAC New Delhi"
 projects:
   - example
 image:
