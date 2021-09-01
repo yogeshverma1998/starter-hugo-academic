@@ -38,8 +38,7 @@ doi: ""
 featured: true
 tags:
   - Preprint
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: CENTER
