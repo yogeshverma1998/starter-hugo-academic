@@ -16,7 +16,7 @@ abstract: Pions constitute nearly 70% of final state particles in ultra high
   for identification and characterization. These networks are fast and
   computationally inexpensive for particle shower identification and
   reconstruction for current and future experiments at particle colliders.
-slides: example/2103.16247.pdf
+slides: example/
 url_pdf: ""
 publication_types:
   - "2"
