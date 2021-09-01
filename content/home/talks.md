@@ -3,7 +3,7 @@ widget: pages
 widget_id: example talk
 headless: true
 weight: 140
-title: Talks + Posters
+title: Talks
 subtitle: null
 active: false
 content:
