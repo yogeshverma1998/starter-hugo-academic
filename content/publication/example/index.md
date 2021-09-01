@@ -37,7 +37,7 @@ url_source: ""
 url_video: ""
 title: Shower identification in calorimeter using deep learning
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
