@@ -37,18 +37,19 @@ url_source: ""
 url_video: ""
 title: Shower identification in calorimeter using deep learning
 doi: ""
-featured: false
+featured: true
 tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
+  caption: ""
+  focal_point: CENTER
   preview_only: false
-  filename: shower_det.png
+  filename: featured.png
+  alt_text: Pictorial representation of shower creation in Calorimeter
 date: 2020-12-01T08:58:42.397Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
