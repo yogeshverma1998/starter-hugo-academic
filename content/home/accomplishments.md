@@ -30,7 +30,7 @@ widget_id: awards
 headless: true
 weight: 40
 title: Awards
-subtitle: null
+subtitle: " "
 design:
   columns: "2"
   background:
