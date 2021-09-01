@@ -3,7 +3,7 @@ title: Deep Neural Network for Multi-particle classification
 abstract: "@IFJ PAN"
 location: Institute of Nuclear Physics, Polish Academy of Sciences, Krakow
 date: 2019-08-01T12:44:59.056Z
-date_end: 2019-07-31T18:30:00.000Z
+date_end: 2019-08-01T18:30:00.000Z
 all_day: true
 links:
   - url: https://ppss.ifj.edu.pl/history.php
