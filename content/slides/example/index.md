@@ -4,9 +4,9 @@ summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
 categories: []
-date: 2019-02-05T00:00:00Z
+date: 2019-02-05T00:00:00.000Z
 slides:
-  theme: night
+  theme: simple
   highlight_style: dracula
 ---
 
