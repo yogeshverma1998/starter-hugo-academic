@@ -2,10 +2,10 @@
 widget: pages
 widget_id: example talk
 headless: true
-weight: 140
-title: "Talks "
+weight: 100
+title: Talks + Posters
 subtitle: null
-active: true
+active: false
 content:
   page_type: event
   count: 5
