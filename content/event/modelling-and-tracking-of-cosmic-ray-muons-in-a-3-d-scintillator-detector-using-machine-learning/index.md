@@ -1,7 +1,7 @@
 ---
 title: Modelling and Tracking of Cosmic Ray Muons in a 3-D Scintillator detector
   using Machine Learning
-abstract: Poster Presentation in DAE-BRNS High Energy Physics Symposium
+abstract: "@DAE BRNS Conference (Virtual)"
 location: NISER, Bhubaneswar
 date: 2020-12-17T12:51:52.346Z
 date_end: 2020-12-17T18:30:00.000Z
