@@ -2,7 +2,7 @@
 widget: pages
 widget_id: example talk
 headless: true
-weight: 100
+weight: 80
 title: Talks
 subtitle: null
 active: true
@@ -22,6 +22,6 @@ content:
 design:
   view: 2
   background:
-    image: ""
+    image: talks_back.jpg
     image_darken: 0.5
 ---
