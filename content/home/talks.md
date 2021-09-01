@@ -22,6 +22,6 @@ content:
 design:
   view: 2
   background:
-    image: talks_back.jpg
+    image: ""
     image_darken: 0.5
 ---
