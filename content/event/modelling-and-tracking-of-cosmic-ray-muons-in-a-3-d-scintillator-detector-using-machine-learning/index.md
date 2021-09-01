@@ -8,6 +8,8 @@ date_end: 2020-12-17T18:30:00.000Z
 all_day: true
 links:
   - url: https://www.niser.ac.in/daehep2020/
+    name: Event
+    icon_pack: fas
 event: DAE-BRNS High Energy Physics Symposium
 event_url: https://www.niser.ac.in/daehep2020/
 publishDate: 2020-12-19T12:51:52.382Z
