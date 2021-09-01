@@ -1,8 +1,8 @@
 ---
 widget: pages
-widget_id: featured
+widget_id: example talk
 headless: true
-weight: 80
+weight: 140
 title: "Talks "
 subtitle: null
 active: true
