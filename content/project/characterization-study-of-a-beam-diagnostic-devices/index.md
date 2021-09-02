@@ -5,6 +5,7 @@ draft: false
 featured: false
 tags:
   - Physics
+  - Electronics
 image:
   filename: featured.png
   focal_point: Smart
