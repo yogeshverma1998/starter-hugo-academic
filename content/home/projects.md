@@ -15,6 +15,8 @@ content:
       tag: Deep Learning
     - name: Physics
       tag: Physics
+    - name: Electronics
+      tag: Electronics
 design:
   columns: "1"
   view: 3
