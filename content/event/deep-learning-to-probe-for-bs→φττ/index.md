@@ -1,7 +1,7 @@
 ---
 title: Deep Learning to probe for Bs→φττ
 abstract: "@CERN (Virtual)"
-location: CERN (Virtual)
+location: CMS Machine Learning Forum
 date: 2021-09-08T13:02:37.018Z
 date_end: 2021-09-08T14:30:00.000Z
 all_day: false
